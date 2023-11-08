@@ -1,6 +1,5 @@
-# Hollywood_Movies_Analysis
+# Hollywood_Movies_Analysis 2007 - 2011
 
-# Hollywood Movies Data Analysis 2007-2017
 
 Welcome to the "Hollywood Movies Data Analysis 2007-2017" project repository! In this project, we dive into the world of Hollywood movies and explore trends and insights from a dataset spanning the years 2007 to 2011.
 
